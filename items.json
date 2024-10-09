@@ -1,102 +1,304 @@
 [
-    {
-       "id":1,
-       "category":1,
-       "postDate":"2023-05-14",
-       "featureImage":"https://dummyimage.com/200x200/000/fff",
-       "price":9.99,
-       "title":"Lawnmower",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
-       "published":true
-    },
-    {
-       "id":2,
-       "category":1,
-       "postDate":"2023-05-15",
-       "featureImage":"https://dummyimage.com/200x200/000/fff",
-       "price":19.99,
-       "title":"Weber BBQ",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
-       "published":true
-    },
-    {
-       "id":3,
-       "category":2,
-       "postDate":"2023-05-16",
-       "featureImage":"https://dummyimage.com/200x200/000/fff",
-       "price":439.99,
-       "title":"PS5",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
-       "published":true
-    },
-    {
-       "id":4,
-       "category":2,
-       "postDate":"2023-05-17",
-       "featureImage":"https://dummyimage.com/200x200/000/fff",
-       "price":459.99,
-       "title":"XBOX",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
-       "published":true
-    },
-    {
-       "id":5,
-       "category":3,
-       "postDate":"2023-05-18",
-       "featureImage":"https://dummyimage.com/200x200/000/fff",
-       "price":39.99,
-       "title":"TShirt",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
-       "published":true
-    },
-    {
-       "id":6,
-       "category":3,
-       "postDate":"2023-05-19",
-       "featureImage":"https://dummyimage.com/200x200/000/fff",
-       "price":29.99,
-       "title":"Shorts",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
-       "published":true
-    },
-    {
-       "id":7,
-       "category":4,
-       "postDate":"2023-05-20",
-       "featureImage":"https://dummyimage.com/200x200/000/fff",
-       "price":19.99,
-       "title":"Baseball",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
-       "published":true
-    },
-    {
-       "id":8,
-       "category":4,
-       "postDate":"2023-05-21",
-       "featureImage":"https://dummyimage.com/200x200/000/fff",
-       "price":99.99,
-       "title":"Soccer Ball",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
-       "published":true
-    },
-    {
-       "id":9,
-       "category":5,
-       "postDate":"2023-05-16",
-       "featureImage":"https://dummyimage.com/200x200/000/fff",
-       "price":99.99,
-       "title":"Dog Food",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
-       "published":true
-    },
-    {
-       "id":10,
-       "category":5,
-       "postDate":"2023-05-16",
-       "featureImage":"https://dummyimage.com/200x200/000/fff",
-       "price":9.99,
-       "title":"Fish Food",
-       "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras convallis fringilla sem efficitur congue. Vestibulum efficitur blandit ultricies. Sed tempus mollis orci id facilisis. Aliquam placerat, ipsum eget egestas malesuada, neque nunc scelerisque felis, ut egestas turpis augue ut nisi. Curabitur vel convallis augue.",
-       "published":true
-    }
+   
+      {
+          "id": 1,
+          "category": 1,
+          "postDate": "2023-05-14",
+          "featureImage": "https://dummyimage.com/200x200/000/fff",
+          "price": 9.99,
+          "title": "Lawnmower",
+          "body": "Keep your lawn looking pristine with this efficient lawnmower. Its powerful motor and sharp blades ensure a clean cut every time, making yard work a breeze.",
+          "published": true
+      },
+      {
+          "id": 2,
+          "category": 1,
+          "postDate": "2023-05-15",
+          "featureImage": "https://dummyimage.com/200x200/000/fff",
+          "price": 19.99,
+          "title": "Weber BBQ",
+          "body": "Grill like a pro with the Weber BBQ, designed for even heat distribution and superior flavor. Perfect for summer cookouts and backyard parties.",
+          "published": true
+      },
+      {
+          "id": 3,
+          "category": 2,
+          "postDate": "2023-05-16",
+          "featureImage": "https://dummyimage.com/200x200/000/fff",
+          "price": 439.99,
+          "title": "PS5",
+          "body": "Experience gaming at its finest with the PS5. With stunning graphics and lightning-fast loading times, immerse yourself in your favorite games like never before.",
+          "published": true
+      },
+      {
+          "id": 4,
+          "category": 2,
+          "postDate": "2023-05-17",
+          "featureImage": "https://dummyimage.com/200x200/000/fff",
+          "price": 459.99,
+          "title": "XBOX",
+          "body": "Take your gaming to the next level with the XBOX. Enjoy a wide variety of games and exclusive titles that will keep you entertained for hours.",
+          "published": true
+      },
+      {
+          "id": 5,
+          "category": 3,
+          "postDate": "2023-05-18",
+          "featureImage": "https://dummyimage.com/200x200/000/fff",
+          "price": 39.99,
+          "title": "TShirt",
+          "body": "Stay comfortable and stylish with this classic t-shirt. Made from soft, breathable fabric, it's perfect for any casual occasion.",
+          "published": true
+      },
+      {
+          "id": 6,
+          "category": 3,
+          "postDate": "2023-05-19",
+          "featureImage": "https://dummyimage.com/200x200/000/fff",
+          "price": 29.99,
+          "title": "Shorts",
+          "body": "Enjoy warm weather in these stylish shorts. Designed for comfort and versatility, they're perfect for beach days or casual outings.",
+          "published": true
+      },
+      {
+          "id": 7,
+          "category": 4,
+          "postDate": "2023-05-20",
+          "featureImage": "https://dummyimage.com/200x200/000/fff",
+          "price": 19.99,
+          "title": "Baseball",
+          "body": "Hit a home run with this quality baseball. Durable and designed for optimal performance, it's perfect for players of all ages.",
+          "published": true
+      },
+      {
+          "id": 8,
+          "category": 4,
+          "postDate": "2023-05-21",
+          "featureImage": "https://dummyimage.com/200x200/000/fff",
+          "price": 99.99,
+          "title": "Soccer Ball",
+          "body": "Score big with this high-quality soccer ball. Designed for durability and precision, it's ideal for practice or game day.",
+          "published": true
+      },
+      {
+          "id": 9,
+          "category": 5,
+          "postDate": "2023-05-16",
+          "featureImage": "https://dummyimage.com/200x200/000/fff",
+          "price": 99.99,
+          "title": "Dog Food",
+          "body": "Give your furry friend the nutrition they deserve with our premium dog food. Packed with essential nutrients for a healthy, active life.",
+          "published": true
+      },
+      {
+          "id": 10,
+          "category": 5,
+          "postDate": "2023-05-16",
+          "featureImage": "https://dummyimage.com/200x200/000/fff",
+          "price": 9.99,
+          "title": "Fish Food",
+          "body": "Keep your fish happy and healthy with our high-quality fish food. Designed for optimal growth and vibrant colors, it's a treat they will love.",
+          "published": true
+      },
+      {
+        "id": 11,
+        "category": 1,
+        "postDate": "2023-05-22",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 29.99,
+        "title": "Electric Hedge Trimmer",
+        "body": "Effortlessly trim and shape your hedges with this powerful electric hedge trimmer, featuring a lightweight design and dual-action blades for reduced vibration.",
+        "published": true
+      },
+      {
+        "id": 12,
+        "category": 1,
+        "postDate": "2023-05-23",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 49.99,
+        "title": "Cordless Leaf Blower",
+        "body": "Make yard clean-up easy with this cordless leaf blower, designed for quick and efficient removal of leaves and debris from your garden.",
+        "published": true
+      },
+      {
+        "id": 13,
+        "category": 2,
+        "postDate": "2023-05-24",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 299.99,
+        "title": "Gaming Monitor",
+        "body": "Enhance your gaming experience with this high-resolution gaming monitor, featuring a fast refresh rate and vibrant colors for immersive gameplay.",
+        "published": true
+      },
+      {
+        "id": 14,
+        "category": 2,
+        "postDate": "2023-05-25",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 59.99,
+        "title": "Wireless Gaming Mouse",
+        "body": "This wireless gaming mouse offers precision tracking and customizable buttons, perfect for any gamer looking to elevate their gameplay.",
+        "published": true
+      },
+      {
+        "id": 15,
+        "category": 3,
+        "postDate": "2023-05-26",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 24.99,
+        "title": "Baseball Cap",
+        "body": "Stay stylish and protected from the sun with this adjustable baseball cap, featuring a classic design and breathable fabric.",
+        "published": true
+      },
+      {
+        "id": 16,
+        "category": 3,
+        "postDate": "2023-05-27",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 15.99,
+        "title": "Hooded Sweatshirt",
+        "body": "This comfortable hooded sweatshirt is perfect for layering and comes in a variety of colors, making it a versatile addition to your wardrobe.",
+        "published": true
+      },
+      {
+        "id": 17,
+        "category": 4,
+        "postDate": "2023-05-28",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 29.99,
+        "title": "Yoga Mat",
+        "body": "Enhance your yoga practice with this durable and non-slip yoga mat, providing the perfect surface for stability and comfort.",
+        "published": true
+      },
+      {
+        "id": 18,
+        "category": 4,
+        "postDate": "2023-05-29",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 49.99,
+        "title": "Dumbbell Set",
+        "body": "This adjustable dumbbell set is ideal for home workouts, allowing you to customize your strength training routine with ease.",
+        "published": true
+      },
+      {
+        "id": 19,
+        "category": 5,
+        "postDate": "2023-05-30",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 14.99,
+        "title": "Cat Treats",
+        "body": "Treat your feline friend to these delicious cat treats made from high-quality ingredients, ensuring they stay happy and healthy.",
+        "published": true
+      },
+      {
+        "id": 20,
+        "category": 5,
+        "postDate": "2023-05-31",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 34.99,
+        "title": "Pet Bed",
+        "body": "Provide your pet with a cozy and comfortable space to relax with this soft and durable pet bed, perfect for dogs and cats alike.",
+        "published": true
+      },
+      {
+        "id": 21,
+        "category": 1,
+        "postDate": "2023-06-01",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 89.99,
+        "title": "Garden Rake",
+        "body": "A sturdy garden rake that helps you keep your lawn and garden looking tidy, featuring a comfortable grip and durable construction.",
+        "published": true
+      },
+      {
+        "id": 22,
+        "category": 1,
+        "postDate": "2023-06-02",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 129.99,
+        "title": "Rotary Tiller",
+        "body": "This powerful rotary tiller makes soil preparation quick and easy, perfect for gardeners looking to cultivate their garden beds.",
+        "published": true
+      },
+      {
+        "id": 23,
+        "category": 2,
+        "postDate": "2023-06-03",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 79.99,
+        "title": "Gaming Chair",
+        "body": "Stay comfortable during long gaming sessions with this ergonomic gaming chair, featuring adjustable armrests and lumbar support.",
+        "published": true
+      },
+      {
+        "id": 24,
+        "category": 2,
+        "postDate": "2023-06-04",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 39.99,
+        "title": "Headset Stand",
+        "body": "Keep your gaming setup organized with this stylish headset stand, designed to hold your headphones securely.",
+        "published": true
+      },
+      {
+        "id": 25,
+        "category": 3,
+        "postDate": "2023-06-05",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 12.99,
+        "title": "Socks",
+        "body": "These cozy socks are perfect for keeping your feet warm, featuring a variety of fun designs to choose from.",
+        "published": true
+      },
+      {
+        "id": 26,
+        "category": 3,
+        "postDate": "2023-06-06",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 49.99,
+        "title": "Stylish Sneakers",
+        "body": "These stylish sneakers are perfect for casual outings, providing both comfort and fashion in every step.",
+        "published": true
+      },
+      {
+        "id": 27,
+        "category": 4,
+        "postDate": "2023-06-07",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 19.99,
+        "title": "Resistance Bands",
+        "body": "These versatile resistance bands are perfect for strength training and can be used at home or on the go.",
+        "published": true
+      },
+      {
+        "id": 28,
+        "category": 4,
+        "postDate": "2023-06-08",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 99.99,
+        "title": "Exercise Bike",
+        "body": "Get fit at home with this compact exercise bike, featuring adjustable resistance and a comfortable seat.",
+        "published": true
+      },
+      {
+        "id": 29,
+        "category": 5,
+        "postDate": "2023-06-09",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 19.99,
+        "title": "Pet Grooming Kit",
+        "body": "Keep your pet looking their best with this complete grooming kit, featuring clippers, brushes, and scissors.",
+        "published": true
+      },
+      {
+        "id": 30,
+        "category": 5,
+        "postDate": "2023-06-10",
+        "featureImage": "https://dummyimage.com/200x200/000/fff",
+        "price": 39.99,
+        "title": "Cat Tree",
+        "body": "Give your cat a place to climb and play with this multi-level cat tree, designed for fun and relaxation.",
+        "published": true
+      }
+    
  ] 
