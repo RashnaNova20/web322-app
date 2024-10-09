@@ -44,7 +44,8 @@ app.get('/about', (req, res) => {
                 res.status(500).json({ message: err }); // Return error message
             });
     });
-    
+
+    // Define the /allItems route
     app.get('/items', (req, res) => {
         storeService.getAllItems().then((data) => {
             res.json(data);
