@@ -1,11 +1,11 @@
 /*********************************************************************************
-WEB322 – Assignment 02
+WEB322 – Assignment 03
 I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part *  of this assignment has been copied manually or electronically from any other source (including 3rd party web sites) or distributed to other students.
 
 Name: Rashna Nova
 Student ID: 119726206
 Date: 30th October 2024
-Glitch Web App URL: https://tree-eager-lead.glitch.me/
+Glitch Web App URL: 
 GitHub Repository URL: https://github.com/RashnaNova20/web322-app
 ********************************************************************************/
 
