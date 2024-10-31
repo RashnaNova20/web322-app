@@ -1,4 +1,3 @@
-
 const fs = require("fs");
 
 let items;
@@ -108,4 +107,3 @@ module.exports.getItemById = function (itemId) {
         itemMatch ? resolve(itemMatch) : reject("No item of id", itemId);
     });
 };
-
