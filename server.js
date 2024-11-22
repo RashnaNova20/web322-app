@@ -5,8 +5,8 @@ I declare that this assignment is my own work in accordance with Seneca  Academi
 Name: Rashna Nova 
 Student ID: 119726206
 Date: 20th November 2024
-Glitch Web App URL: 
-GitHub Repository URL: 
+Glitch Web App URL: https://github.com/RashnaNova20/web322-app.git
+GitHub Repository URL: https://fabulous-immediate-tennis.glitch.me
 ********************************************************************************/ 
 const express = require("express");
 const multer = require("multer");
