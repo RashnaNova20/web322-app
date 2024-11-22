@@ -1,10 +1,11 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    padding-top: 62px; 
+}
+h2 {
+    color: blue;
 }
 
-nav a {
-    padding: 10px;
-    margin-right: 10px;
+.navbar-nav .nav-item {
+    margin-right: 10px; 
 }
